@@ -1,5 +1,7 @@
 # FingerPrint Service WSQ
 
+- Servicio que provee el sdk actualizado y adaptado de SecuGen para la obtención de imagen en formato WSQ (FBI) interactuado con servidor desarrollado en Flask que utiliza comunicación vía Websocket.
+
 ## Requerimientos para la instalación:
 
 - [x] Distribución Linux (Probado en Debian 9, 10, 11)

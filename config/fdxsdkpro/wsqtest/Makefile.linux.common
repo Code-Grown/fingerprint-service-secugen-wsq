@@ -1,0 +1,48 @@
+#*************************************************************
+#*
+#* Author :      SecuGen Corporation
+#* Description : WSQTest Makefile
+#* Copyright(c): 2009 SecuGen Corporation, All rights reserved
+#* date        person   comments
+#* ======================================================
+#* 5/14/2020  driley   initial release
+#*
+#*************************************************************
+
+#PORT = linux3
+CFLAGS = -D__cplusplus -Wall -O
+CPP=g++
+CC=gcc
+INCPATH = -I./ -I../include
+#LIBS =  -L../lib/$(PORT)
+
+OBJS=	main.o
+
+SRCS=	main.cpp
+
+TARGET = $(PORT)/wsqtest
+
+all : $(TARGET)
+
+$(TARGET) : $(OBJS)
+	$(CPP) -o $@ $(OBJS) $(LIBS) -lsgfplib -lsgnfiq -lsgimage -lsgfpamx -lusb -lpthread
+	cp *.raw $(PORT)
+	cp *.wsq $(PORT)
+
+.cc.o :
+	$(CPP) $(FLAGS) $(INCPATH) -c $<
+
+.c.o :
+	$(CPP) $(FLAGS) $(INCPATH) -c $<
+
+.cpp.o :
+	$(CPP) $(FLAGS) $(INCPATH) -c $<
+
+dep :
+	gccmakedep $(INCPATH) $(SRCS)
+
+clean :
+	#rm -rf $(OBJS) $(TARGET) core
+	rm -rf $(PORT)
+	mkdir $(PORT)
+

@@ -1,0 +1,350 @@
+[29/09/2021 01:58:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 01:58:22] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:58:22] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:58:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 01:58:22] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:58:22] - [INFO ] - Finalizado. 
+[29/09/2021 01:58:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 01:58:31] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:58:31] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:58:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 01:58:31] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:58:31] - [INFO ] - Finalizado. 
+[29/09/2021 01:58:40] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 01:58:40] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:58:40] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:58:40] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:37] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:01:37] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:01:37] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:01:37] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:01:37] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:37] - [INFO ] - Finalizado. 
+[29/09/2021 02:01:39] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:01:39] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:01:39] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:01:39] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:01:39] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:39] - [INFO ] - Finalizado. 
+[29/09/2021 02:01:46] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 02:01:46] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:01:46] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:46] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:59] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:59] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 14 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:59] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:01:59] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:01:59] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:01:59] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:01:59] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:59] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:02:22] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:22] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:02:22] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:22] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:02:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:02:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:24] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:31] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 02:02:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:02:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:31] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:45] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:45] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 14 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:45] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:02:45] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:02:45] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:02:45] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:02:45] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:45] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 02:02:48] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:02:48] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:53] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:02:53] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:53] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:53] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:02:53] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[29/09/2021 02:02:53] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 02:02:53] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 02:02:53] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:53] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:59] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:02:59] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:59] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:59] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:02:59] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:59] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:03] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:03:03] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:03:03] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:03:03] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:03:03] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:03] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 02:03:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:03:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:26] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:26] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 13 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:26] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:03:26] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:03:26] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:03:26] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:03:26] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:26] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:31] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 02:03:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:03:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:31] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:43] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:43] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 13 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:43] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:03:43] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:03:43] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:03:43] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:54] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 02:03:54] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:03:54] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:03:54] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 02:03:54] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:54] - [INFO ] - Finalizado. 
+[29/09/2021 09:06:27] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:06:27] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:06:27] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:06:27] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:06:27] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:06:27] - [INFO ] - Finalizado. 
+[29/09/2021 09:06:30] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:06:30] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:06:30] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:06:30] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:06:30] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:06:30] - [INFO ] - Finalizado. 
+[29/09/2021 09:07:17] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:07:17] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:07:17] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:17] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:51] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:51] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 34 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:51] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:07:51] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:07:51] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:07:51] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:07:51] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:07:51] - [INFO ] - Finalizado. 
+[29/09/2021 09:07:56] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:07:56] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:07:56] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:56] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:08:52] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:08:52] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:08:52] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:08:52] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:08:52] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[29/09/2021 09:08:52] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 09:08:52] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 09:08:52] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:08:52] - [INFO ] - Finalizado. 
+[29/09/2021 09:16:34] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:16:34] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:16:34] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:16:34] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:16:34] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:16:34] - [INFO ] - Finalizado. 
+[29/09/2021 09:17:07] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:17:07] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:17:07] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:17:07] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:17:44] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:17:44] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:17:44] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:17:44] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:17:44] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:17:44] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:17:44] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:17:44] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:18:11] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:18:11] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:18:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:18:11] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:18:11] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:18:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:18:14] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:18:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:18:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:18:14] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:33] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:18:33] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:18:33] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:18:33] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:08] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:08] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 34 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:08] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:19:08] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:19:08] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:19:08] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:19:08] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:08] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:19:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:19:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:47] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:47] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 35 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:47] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:19:47] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:19:47] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:19:47] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:20:37] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:20:37] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:20:37] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:20:37] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:20:37] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:20:37] - [INFO ] - Finalizado. 
+[29/09/2021 09:21:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:21:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:21:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:21:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:21:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:21:24] - [INFO ] - Finalizado. 
+[29/09/2021 09:21:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:21:48] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:21:48] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:21:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:22:25] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:22:25] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:22:25] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:22:25] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:22:25] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:22:25] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:22:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:22:25] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:29:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:29:14] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:29:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:29:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:29:14] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 09:29:25] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:29:25] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:29:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 09:29:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:29:25] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:31] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:29:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:29:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:29:31] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:06] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:06] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 35 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:06] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:30:06] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:30:06] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:30:06] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:30:06] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:30:06] - [INFO ] - Finalizado. 
+[29/09/2021 09:30:11] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 09:30:11] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:30:11] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:11] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 12:39:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 12:39:31] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:39:31] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:39:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 12:39:31] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:39:31] - [INFO ] - Finalizado. 
+[29/09/2021 12:39:32] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 12:39:32] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:39:32] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:39:32] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 12:39:32] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:39:32] - [INFO ] - Finalizado. 
+[29/09/2021 12:39:40] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 12:39:40] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:39:40] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:39:40] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:10] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:10] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 31 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:10] - [INFO ] - Transacción iniciada 
+[29/09/2021 12:40:10] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 12:40:10] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 12:40:10] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 12:40:10] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:10] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:14] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 12:40:14] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:40:14] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:14] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 12:40:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:40:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:40:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 12:40:24] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[29/09/2021 12:40:24] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 12:40:24] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 12:40:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:24] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 12:40:25] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:40:25] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:40:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 12:40:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:25] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:31] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/09/2021 12:40:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:40:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:31] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/09/2021 12:41:01] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/09/2021 12:41:01] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 31 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 12:41:01] - [INFO ] - Transacción iniciada 
+[29/09/2021 12:41:01] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 12:41:01] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 12:41:01] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 12:41:01] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:41:01] - [INFO ] - Finalizado. 
+[29/09/2021 12:41:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/09/2021 12:41:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:41:14] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:41:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/09/2021 12:41:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:41:14] - [INFO ] - Finalizado. 

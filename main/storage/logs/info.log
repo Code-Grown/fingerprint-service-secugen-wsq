@@ -1,0 +1,712 @@
+[28/09/2021 12:10:15] - [INFO ] - Procesando mensaje: chequear_dispositivo 
+[28/09/2021 12:10:15] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:10:43] - [INFO ] - Dispositivo conectado 
+[28/09/2021 12:10:43] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:11:00] - [INFO ] - Procesando mensaje: iniciar_transaccion 
+[28/09/2021 12:11:00] - [INFO ] -            
+[28/09/2021 12:11:07] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:16:02] - [INFO ] - Procesando mensaje: chequear_dispositivo 
+[28/09/2021 12:16:02] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:16:31] - [INFO ] - Dispositivo conectado 
+[28/09/2021 12:16:31] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:16:31] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:16:31] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:16:31] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:17:14] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:17:14] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:17:14] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:17:18] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:17:18] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:17:18] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:17:20] - [INFO ] - Procesando mensaje: chequear_dispositivo 
+[28/09/2021 12:17:20] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:17:47] - [INFO ] - Dispositivo conectado 
+[28/09/2021 12:17:47] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:17:47] - [INFO ] - Procesando mensaje: finalizar_transaccion 
+[28/09/2021 12:17:47] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:17:47] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:17:53] - [INFO ] - Procesando mensaje: iniciar_transaccion 
+[28/09/2021 12:17:53] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 12:21:24] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:21:24] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 12:21:24] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:21:24] - [INFO ] - Finalizado. 
+[28/09/2021 12:21:26] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:21:54] - [INFO ] - Dispositivo conectado 
+[28/09/2021 12:21:54] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:21:54] - [INFO ] - Finalizado. 
+[28/09/2021 12:21:54] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:21:54] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 12:21:54] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:21:54] - [INFO ] - Finalizado. 
+[28/09/2021 12:22:06] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 12:22:39] - [INFO ] - Transacción iniciada 
+[28/09/2021 12:22:39] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 12:22:39] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 12:22:39] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 12:22:39] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:22:39] - [INFO ] - Finalizado. 
+[28/09/2021 12:27:31] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:27:36] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:29:30] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 12:29:57] - [INFO ] - Dispositivo conectado 
+[28/09/2021 12:29:57] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:29:57] - [INFO ] - Finalizado. 
+[28/09/2021 12:29:57] - [INFO ] - Finalizando transacción 
+[28/09/2021 12:29:57] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 12:29:57] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:29:57] - [INFO ] - Finalizado. 
+[28/09/2021 12:30:22] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 12:30:54] - [INFO ] - Transacción iniciada 
+[28/09/2021 12:30:54] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 12:30:54] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 12:30:54] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 12:30:54] - [INFO ] - Retornando información al websocket 
+[28/09/2021 12:30:54] - [INFO ] - Finalizado. 
+[28/09/2021 14:44:34] - [INFO ] - Finalizando transacción 
+[28/09/2021 14:44:40] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 14:45:07] - [INFO ] - Dispositivo conectado 
+[28/09/2021 14:45:07] - [INFO ] - Retornando información al websocket 
+[28/09/2021 14:45:07] - [INFO ] - Finalizado. 
+[28/09/2021 14:45:07] - [INFO ] - Finalizando transacción 
+[28/09/2021 14:47:35] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 14:48:01] - [INFO ] - Dispositivo conectado 
+[28/09/2021 14:48:01] - [INFO ] - Retornando información al websocket 
+[28/09/2021 14:48:01] - [INFO ] - Finalizado. 
+[28/09/2021 14:48:01] - [INFO ] - Finalizando transacción 
+[28/09/2021 14:56:31] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 14:56:58] - [INFO ] - Dispositivo conectado 
+[28/09/2021 14:56:58] - [INFO ] - Retornando información al websocket 
+[28/09/2021 14:56:58] - [INFO ] - Finalizado. 
+[28/09/2021 14:56:58] - [INFO ] - Finalizando transacción 
+[28/09/2021 14:56:58] - [INFO ] - Retornando información al websocket 
+[28/09/2021 14:56:58] - [INFO ] - Finalizado. 
+[28/09/2021 15:04:43] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 15:04:51] - [INFO ] - Transacción iniciada 
+[28/09/2021 15:04:51] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 15:04:51] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 15:04:51] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 15:04:51] - [INFO ] - Retornando información al websocket 
+[28/09/2021 15:04:51] - [INFO ] - Finalizado. 
+[28/09/2021 15:05:01] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 15:05:09] - [INFO ] - Dispositivo conectado 
+[28/09/2021 15:05:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 15:05:09] - [INFO ] - Finalizado. 
+[28/09/2021 15:05:09] - [INFO ] - Finalizando transacción 
+[28/09/2021 15:05:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 15:05:09] - [INFO ] - Finalizado. 
+[28/09/2021 15:05:17] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 15:05:26] - [INFO ] - Transacción iniciada 
+[28/09/2021 15:05:26] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 15:05:26] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 15:05:26] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 15:05:26] - [INFO ] - Retornando información al websocket 
+[28/09/2021 15:05:26] - [INFO ] - Finalizado. 
+[28/09/2021 15:05:33] - [INFO ] - Finalizando transacción 
+[28/09/2021 15:05:33] - [INFO ] - Retornando información al websocket 
+[28/09/2021 15:05:33] - [INFO ] - Finalizado. 
+[28/09/2021 16:28:16] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 16:28:43] - [INFO ] - Dispositivo conectado 
+[28/09/2021 16:28:43] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:28:43] - [INFO ] - Finalizado. 
+[28/09/2021 16:28:43] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:28:43] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:28:43] - [INFO ] - Finalizado. 
+[28/09/2021 16:29:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:29:40] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:29:40] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:29:40] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:29:40] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:29:40] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:29:40] - [INFO ] - Finalizado. 
+[28/09/2021 16:29:42] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:30:09] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:30:09] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:30:09] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:30:09] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:30:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:30:09] - [INFO ] - Finalizado. 
+[28/09/2021 16:30:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:30:09] - [INFO ] - Finalizado. 
+[28/09/2021 16:30:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:30:09] - [INFO ] - Finalizado. 
+[28/09/2021 16:30:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:30:09] - [INFO ] - Finalizado. 
+[28/09/2021 16:30:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:30:09] - [INFO ] - Finalizado. 
+[28/09/2021 16:31:58] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:31:58] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:31:58] - [INFO ] - Finalizado. 
+[28/09/2021 16:34:22] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:34:22] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:34:22] - [INFO ] - Finalizado. 
+[28/09/2021 16:34:32] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 16:34:59] - [INFO ] - Dispositivo conectado 
+[28/09/2021 16:34:59] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:34:59] - [INFO ] - Finalizado. 
+[28/09/2021 16:34:59] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:34:59] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:34:59] - [INFO ] - Finalizado. 
+[28/09/2021 16:37:27] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:37:27] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:37:27] - [INFO ] - Finalizado. 
+[28/09/2021 16:37:55] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:37:55] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:37:55] - [INFO ] - Finalizado. 
+[28/09/2021 16:38:35] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:38:35] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:38:35] - [INFO ] - Finalizado. 
+[28/09/2021 16:38:41] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:39:16] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:39:16] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:39:16] - [INFO ] - Finalizado. 
+[28/09/2021 16:39:18] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 16:39:44] - [INFO ] - Dispositivo conectado 
+[28/09/2021 16:39:44] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:39:44] - [INFO ] - Finalizado. 
+[28/09/2021 16:39:44] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:39:44] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:39:44] - [INFO ] - Finalizado. 
+[28/09/2021 16:39:55] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:40:22] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:40:22] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:40:22] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:40:22] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:40:22] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:40:22] - [INFO ] - Finalizado. 
+[28/09/2021 16:40:24] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:40:51] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:40:51] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:40:51] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:40:51] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:40:51] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:40:51] - [INFO ] - Finalizado. 
+[28/09/2021 16:40:51] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:40:51] - [INFO ] - Finalizado. 
+[28/09/2021 16:40:51] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:40:51] - [INFO ] - Finalizado. 
+[28/09/2021 16:40:51] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:40:51] - [INFO ] - Finalizado. 
+[28/09/2021 16:41:07] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:41:07] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:41:07] - [INFO ] - Finalizado. 
+[28/09/2021 16:41:08] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 16:41:35] - [INFO ] - Dispositivo conectado 
+[28/09/2021 16:41:35] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:41:35] - [INFO ] - Finalizado. 
+[28/09/2021 16:41:35] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:41:35] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:41:35] - [INFO ] - Finalizado. 
+[28/09/2021 16:41:40] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:42:08] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:42:08] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:42:08] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:42:08] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:42:08] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:42:08] - [INFO ] - Finalizado. 
+[28/09/2021 16:43:16] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:43:16] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:43:16] - [INFO ] - Finalizado. 
+[28/09/2021 16:43:52] - [INFO ] - Comprobando dispositivo 
+[28/09/2021 16:44:18] - [INFO ] - Dispositivo conectado 
+[28/09/2021 16:44:18] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:44:18] - [INFO ] - Finalizado. 
+[28/09/2021 16:44:18] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:44:18] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:44:18] - [INFO ] - Finalizado. 
+[28/09/2021 16:44:39] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:44:39] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:44:39] - [INFO ] - Finalizado. 
+[28/09/2021 16:44:54] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:45:22] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:45:22] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:45:22] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:45:22] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:45:22] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:45:22] - [INFO ] - Finalizado. 
+[28/09/2021 16:45:52] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:46:20] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:46:20] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:46:20] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:46:20] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:46:20] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:46:23] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:46:27] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:46:27] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 16:46:27] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:46:27] - [INFO ] - Finalizado. 
+[28/09/2021 16:46:36] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:46:40] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:46:40] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 16:46:40] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:46:40] - [INFO ] - Finalizado. 
+[28/09/2021 16:46:58] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:46:58] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:46:58] - [INFO ] - Finalizado. 
+[28/09/2021 16:47:14] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:47:14] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:47:14] - [INFO ] - Finalizado. 
+[28/09/2021 16:48:43] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:48:43] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:48:43] - [INFO ] - Finalizado. 
+[28/09/2021 16:49:27] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:49:27] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:49:27] - [INFO ] - Finalizado. 
+[28/09/2021 16:49:32] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:49:32] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:49:32] - [INFO ] - Finalizado. 
+[28/09/2021 16:49:39] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:49:39] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:49:39] - [INFO ] - Finalizado. 
+[28/09/2021 16:49:58] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:50:02] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:50:02] - [INFO ] - Transacción finalizada correctamente 
+[28/09/2021 16:50:02] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:50:02] - [INFO ] - Finalizado. 
+[28/09/2021 16:50:08] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:50:36] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:50:36] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:50:36] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:50:36] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:50:36] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:50:36] - [INFO ] - Finalizado. 
+[28/09/2021 16:50:38] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:51:06] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:51:06] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:51:06] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:51:06] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:51:06] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:06] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:06] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:06] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:06] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:06] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:06] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:06] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:08] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 16:51:37] - [INFO ] - Transacción iniciada 
+[28/09/2021 16:51:37] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 16:51:37] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 16:51:37] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 16:51:37] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:37] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:37] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:37] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:37] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:37] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:37] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:37] - [INFO ] - Finalizado. 
+[28/09/2021 16:51:47] - [INFO ] - Finalizando transacción 
+[28/09/2021 16:51:47] - [INFO ] - Retornando información al websocket 
+[28/09/2021 16:51:47] - [INFO ] - Finalizado. 
+[28/09/2021 18:19:10] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:19:10] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:19:10] - [INFO ] - Finalizado. 
+[28/09/2021 18:19:12] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:19:12] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:19:12] - [INFO ] - Finalizado. 
+[28/09/2021 18:19:22] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:19:50] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:19:50] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:19:50] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:19:50] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:19:50] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:19:50] - [INFO ] - Finalizado. 
+[28/09/2021 18:20:19] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:20:19] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:20:19] - [INFO ] - Finalizado. 
+[28/09/2021 18:20:38] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:21:06] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:21:06] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:21:06] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:21:06] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:21:06] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:21:06] - [INFO ] - Finalizado. 
+[28/09/2021 18:21:15] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:21:15] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:21:15] - [INFO ] - Finalizado. 
+[28/09/2021 18:21:21] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:21:50] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:21:50] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:21:50] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:21:50] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:21:50] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:21:50] - [INFO ] - Finalizado. 
+[28/09/2021 18:22:02] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:22:02] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:22:02] - [INFO ] - Finalizado. 
+[28/09/2021 18:22:10] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:23:02] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:23:02] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:23:02] - [INFO ] - Finalizado. 
+[28/09/2021 18:23:08] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:23:36] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:23:36] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:23:36] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:23:36] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:23:36] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:23:36] - [INFO ] - Finalizado. 
+[28/09/2021 18:23:55] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:23:55] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:23:55] - [INFO ] - Finalizado. 
+[28/09/2021 18:23:57] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:23:57] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:23:57] - [INFO ] - Finalizado. 
+[28/09/2021 18:24:00] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:24:00] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:24:00] - [INFO ] - Finalizado. 
+[28/09/2021 18:24:07] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:24:34] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:24:34] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:24:34] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:24:34] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:24:34] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:24:34] - [INFO ] - Finalizado. 
+[28/09/2021 18:26:09] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:26:09] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:26:09] - [INFO ] - Finalizado. 
+[28/09/2021 18:26:24] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:26:52] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:26:52] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:26:52] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:26:52] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:26:52] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:26:52] - [INFO ] - Finalizado. 
+[28/09/2021 18:26:55] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:27:23] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:27:23] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:27:23] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:27:23] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:27:23] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:27:23] - [INFO ] - Finalizado. 
+[28/09/2021 18:33:28] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:33:28] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:33:28] - [INFO ] - Finalizado. 
+[28/09/2021 18:33:31] - [INFO ] - Finalizando transacción 
+[28/09/2021 18:33:31] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:33:31] - [INFO ] - Finalizado. 
+[28/09/2021 18:33:36] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:34:13] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:34:13] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:34:13] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:34:13] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:34:13] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:13] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:16] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[28/09/2021 18:34:53] - [INFO ] - Transacción iniciada 
+[28/09/2021 18:34:53] - [INFO ] - Transacción de lectura biométrica completada 
+[28/09/2021 18:34:53] - [INFO ] - Codificando imagen biométrica 
+[28/09/2021 18:34:53] - [INFO ] - Imagen biométrica codificada 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[28/09/2021 18:34:53] - [INFO ] - Retornando información al websocket 
+[28/09/2021 18:34:53] - [INFO ] - Finalizado. 
+[29/09/2021 01:09:27] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:09:27] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:09:27] - [INFO ] - Finalizado. 
+[29/09/2021 01:09:28] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:09:28] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:09:28] - [INFO ] - Finalizado. 
+[29/09/2021 01:09:39] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:09:58] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:09:58] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:09:58] - [INFO ] - Finalizado. 
+[29/09/2021 01:10:00] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:10:00] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:10:00] - [INFO ] - Finalizado. 
+[29/09/2021 01:10:06] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:10:17] - [INFO ] - Transacción iniciada 
+[29/09/2021 01:10:17] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 01:10:17] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 01:10:17] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 01:10:17] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:10:17] - [INFO ] - Finalizado. 
+[29/09/2021 01:10:30] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:10:30] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:10:30] - [INFO ] - Finalizado. 
+[29/09/2021 01:10:32] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:10:32] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:10:32] - [INFO ] - Finalizado. 
+[29/09/2021 01:10:38] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:10:38] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:10:38] - [INFO ] - Finalizado. 
+[29/09/2021 01:43:22] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:44:00] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:44:00] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:44:00] - [INFO ] - Finalizado. 
+[29/09/2021 01:44:03] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:44:03] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:44:03] - [INFO ] - Finalizado. 
+[29/09/2021 01:44:09] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:45:19] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:45:19] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:45:19] - [INFO ] - Finalizado. 
+[29/09/2021 01:45:20] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:45:20] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:45:20] - [INFO ] - Finalizado. 
+[29/09/2021 01:45:27] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:46:35] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:46:35] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:46:35] - [INFO ] - Finalizado. 
+[29/09/2021 01:46:36] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:46:36] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:46:36] - [INFO ] - Finalizado. 
+[29/09/2021 01:46:42] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:46:42] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:46:42] - [INFO ] - Finalizado. 
+[29/09/2021 01:46:44] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:46:44] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:46:44] - [INFO ] - Finalizado. 
+[29/09/2021 01:46:49] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:47:11] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:11] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:11] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:13] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:13] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:13] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:16] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:16] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:16] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:25] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:25] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:35] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:35] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:35] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:40] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:40] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:40] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:42] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:47:42] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:47:42] - [INFO ] - Finalizado. 
+[29/09/2021 01:47:47] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:50:53] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:50:53] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:50:53] - [INFO ] - Finalizado. 
+[29/09/2021 01:50:57] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:50:57] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:50:58] - [INFO ] - Finalizado. 
+[29/09/2021 01:51:01] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:51:01] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:51:01] - [INFO ] - Finalizado. 
+[29/09/2021 01:51:02] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:51:02] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:51:02] - [INFO ] - Finalizado. 
+[29/09/2021 01:51:08] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:51:47] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:51:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:51:47] - [INFO ] - Finalizado. 
+[29/09/2021 01:51:53] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:55:59] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:56:00] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:56:00] - [INFO ] - Finalizado. 
+[29/09/2021 01:56:01] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:56:01] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:56:01] - [INFO ] - Finalizado. 
+[29/09/2021 01:56:07] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:57:03] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:57:03] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:57:03] - [INFO ] - Finalizado. 
+[29/09/2021 01:57:05] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:57:05] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:57:05] - [INFO ] - Finalizado. 
+[29/09/2021 01:57:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 01:58:22] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:58:22] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:58:22] - [INFO ] - Finalizado. 
+[29/09/2021 01:58:31] - [INFO ] - Finalizando transacción 
+[29/09/2021 01:58:31] - [INFO ] - Retornando información al websocket 
+[29/09/2021 01:58:31] - [INFO ] - Finalizado. 
+[29/09/2021 01:58:40] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:01:37] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:01:37] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:37] - [INFO ] - Finalizado. 
+[29/09/2021 02:01:39] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:01:39] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:39] - [INFO ] - Finalizado. 
+[29/09/2021 02:01:46] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:01:59] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:01:59] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:01:59] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:01:59] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:01:59] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:01:59] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:22] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:22] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:22] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:24] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:02:45] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:02:45] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:02:45] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:02:45] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:02:45] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:45] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:48] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:02:53] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:53] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 02:02:53] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:53] - [INFO ] - Finalizado. 
+[29/09/2021 02:02:59] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:02:59] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:02:59] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:03] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:03:03] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:03] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:03:26] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:03:26] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:03:26] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:03:26] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:03:26] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:26] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 02:03:43] - [INFO ] - Transacción iniciada 
+[29/09/2021 02:03:43] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 02:03:43] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 02:03:43] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:43] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:43] - [INFO ] - Finalizado. 
+[29/09/2021 02:03:54] - [INFO ] - Finalizando transacción 
+[29/09/2021 02:03:54] - [INFO ] - Retornando información al websocket 
+[29/09/2021 02:03:54] - [INFO ] - Finalizado. 
+[29/09/2021 09:06:27] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:06:27] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:06:27] - [INFO ] - Finalizado. 
+[29/09/2021 09:06:30] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:06:30] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:06:30] - [INFO ] - Finalizado. 
+[29/09/2021 09:07:17] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:07:51] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:07:51] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:07:51] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:07:51] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:07:51] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:07:51] - [INFO ] - Finalizado. 
+[29/09/2021 09:07:56] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:08:52] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:08:52] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 09:08:52] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:08:52] - [INFO ] - Finalizado. 
+[29/09/2021 09:16:34] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:16:34] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:16:34] - [INFO ] - Finalizado. 
+[29/09/2021 09:17:07] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:17:44] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:17:44] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:17:44] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:17:44] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:17:44] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:17:44] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:11] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:18:11] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:18:11] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:18:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:18:14] - [INFO ] - Finalizado. 
+[29/09/2021 09:18:33] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:19:08] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:19:08] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:19:08] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:19:08] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:19:08] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:08] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:12] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:19:47] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:19:47] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:19:47] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:19:47] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:19:47] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:19:47] - [INFO ] - Finalizado. 
+[29/09/2021 09:20:37] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:20:37] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:20:37] - [INFO ] - Finalizado. 
+[29/09/2021 09:21:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:21:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:21:24] - [INFO ] - Finalizado. 
+[29/09/2021 09:21:48] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:22:25] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:22:25] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:22:25] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:22:25] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:22:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:22:25] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:29:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:29:14] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:25] - [INFO ] - Finalizando transacción 
+[29/09/2021 09:29:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:29:25] - [INFO ] - Finalizado. 
+[29/09/2021 09:29:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 09:30:06] - [INFO ] - Transacción iniciada 
+[29/09/2021 09:30:06] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 09:30:06] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 09:30:06] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 09:30:06] - [INFO ] - Retornando información al websocket 
+[29/09/2021 09:30:06] - [INFO ] - Finalizado. 
+[29/09/2021 09:30:11] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:39:31] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:39:31] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:39:31] - [INFO ] - Finalizado. 
+[29/09/2021 12:39:32] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:39:32] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:39:32] - [INFO ] - Finalizado. 
+[29/09/2021 12:39:40] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:40:10] - [INFO ] - Transacción iniciada 
+[29/09/2021 12:40:10] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 12:40:10] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 12:40:10] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 12:40:10] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:10] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:14] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:40:24] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:40:24] - [INFO ] - Transacción finalizada correctamente 
+[29/09/2021 12:40:24] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:24] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:25] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:40:25] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:40:25] - [INFO ] - Finalizado. 
+[29/09/2021 12:40:31] - [INFO ] - Iniciando transaccion de lectura biométrica 
+[29/09/2021 12:41:01] - [INFO ] - Transacción iniciada 
+[29/09/2021 12:41:01] - [INFO ] - Transacción de lectura biométrica completada 
+[29/09/2021 12:41:01] - [INFO ] - Codificando imagen biométrica 
+[29/09/2021 12:41:01] - [INFO ] - Imagen biométrica codificada 
+[29/09/2021 12:41:01] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:41:01] - [INFO ] - Finalizado. 
+[29/09/2021 12:41:14] - [INFO ] - Finalizando transacción 
+[29/09/2021 12:41:14] - [INFO ] - Retornando información al websocket 
+[29/09/2021 12:41:14] - [INFO ] - Finalizado. 

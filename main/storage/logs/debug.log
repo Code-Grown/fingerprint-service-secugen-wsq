@@ -1,0 +1,216 @@
+[28/09/2021 12:29:30] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 12:29:57] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_check_devise_fdu03 
+[28/09/2021 12:29:57] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 12:29:57] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[28/09/2021 12:30:22] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 12:30:54] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 32 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 14:44:34] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 14:44:40] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 14:45:07] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_check_devise_fdu03 
+[28/09/2021 14:45:07] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 14:47:35] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 14:48:01] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 26 segundos: wsq_check_devise_fdu03 
+[28/09/2021 14:48:01] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 14:56:31] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 14:56:58] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_check_devise_fdu03 
+[28/09/2021 14:56:58] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 15:04:43] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 15:04:51] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 8 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 15:05:01] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 15:05:09] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 7 segundos: wsq_check_devise_fdu03 
+[28/09/2021 15:05:09] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 15:05:17] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 15:05:26] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 9 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 15:05:33] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:28:16] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 16:28:43] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_check_devise_fdu03 
+[28/09/2021 16:28:43] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:29:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:29:40] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:29:42] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:30:09] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:31:58] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:34:22] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:34:32] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 16:34:59] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 26 segundos: wsq_check_devise_fdu03 
+[28/09/2021 16:34:59] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:37:27] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:37:55] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:38:35] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:38:41] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:39:16] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:39:18] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 16:39:44] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 26 segundos: wsq_check_devise_fdu03 
+[28/09/2021 16:39:44] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:39:55] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:40:22] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 27 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:40:24] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:40:51] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:41:07] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:41:08] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 16:41:35] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 26 segundos: wsq_check_devise_fdu03 
+[28/09/2021 16:41:35] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:41:40] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:42:08] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:43:16] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:43:52] - [DEBUG] - Realizando profiling: wsq_check_devise_fdu03 
+[28/09/2021 16:44:18] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 26 segundos: wsq_check_devise_fdu03 
+[28/09/2021 16:44:18] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:44:39] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:44:54] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:45:22] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:45:52] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:46:20] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:46:23] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:46:27] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:46:27] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[28/09/2021 16:46:36] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:46:40] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:46:40] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[28/09/2021 16:46:58] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:47:14] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:48:43] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:49:27] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:49:32] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:49:39] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:49:58] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:50:02] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 16:50:02] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[28/09/2021 16:50:08] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:50:36] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:50:38] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:51:06] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:51:08] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 16:51:37] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 29 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 16:51:47] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:19:10] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:19:12] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:19:22] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:19:50] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:20:19] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:20:38] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:21:06] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 29 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:21:15] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:21:21] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:21:50] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:22:02] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:22:10] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:23:02] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:23:08] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:23:36] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:23:55] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:23:57] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:24:00] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:24:07] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:24:34] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:26:09] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:26:24] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:26:52] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:26:55] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:27:23] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 28 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:33:28] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:33:31] - [DEBUG] - Realizando profiling: killdevice 
+[28/09/2021 18:33:36] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:34:13] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[28/09/2021 18:34:16] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[28/09/2021 18:34:53] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 01:09:27] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:09:28] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:09:39] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:09:58] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:10:00] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:10:06] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:10:17] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 10 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 01:10:30] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:10:32] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:10:38] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:43:22] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:44:00] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:44:03] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:44:09] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:45:19] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:45:20] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:45:27] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:46:35] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:46:36] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:46:42] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:46:44] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:46:49] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:47:11] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:13] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:16] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:25] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:35] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:40] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:42] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:47:47] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:50:53] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:50:57] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:51:01] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:51:02] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:51:08] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:51:47] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:51:53] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:55:59] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:56:01] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:56:07] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:57:03] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:57:05] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:57:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 01:58:22] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:58:31] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 01:58:40] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:37] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:01:39] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:01:46] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:01:59] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 14 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:22] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:45] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 14 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:48] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:02:53] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:02:53] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 02:02:59] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:03:03] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 02:03:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:26] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 13 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:43] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 13 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 02:03:54] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:06:27] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:06:30] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:07:17] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:51] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 34 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:07:56] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:08:52] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:08:52] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 09:16:34] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:17:07] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:17:44] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:18:11] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:18:14] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:18:33] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:08] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 34 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:12] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:19:47] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 35 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:20:37] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:21:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:21:48] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:22:25] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 37 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:29:14] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:29:25] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 09:29:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:06] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 35 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 09:30:11] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:39:31] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:39:32] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:39:40] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:10] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 31 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:14] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:40:24] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:40:24] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 0 segundos: killdevice 
+[29/09/2021 12:40:25] - [DEBUG] - Realizando profiling: killdevice 
+[29/09/2021 12:40:31] - [DEBUG] - Realizando profiling: wsq_direct_capture_fdu03 
+[29/09/2021 12:41:01] - [DEBUG] - Profiling finalizado, tiempo de ejecución -> 31 segundos: wsq_direct_capture_fdu03 
+[29/09/2021 12:41:14] - [DEBUG] - Realizando profiling: killdevice 

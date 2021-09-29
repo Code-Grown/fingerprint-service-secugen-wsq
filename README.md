@@ -44,8 +44,12 @@ alias dcstop='docker-compose stop'
 
 Para poder levantar el ambiente local solo debes ejecutar la siguiente instrucción y esperar que se instalen las dependencias configuradas en el dockerfile que tiene asociado dicho ambiente.
 
-Ejecutando docker compose para enviarlo a background directamente y ver los logs después de su ejecución:
+Ejecutando docker compose para enviarlo a background directamente:
 
 ```
 docker-compose up --build fingerprint_service
 ```
+
+El servicio queda disponible a través del puerto 5000 en localhost.
+
+Más información en el fichero dockerfile.

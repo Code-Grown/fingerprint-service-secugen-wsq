@@ -13,13 +13,7 @@ services:
         dockerfile: dockerfiles/FingerPrint.Dockerfile
     privileged: true
     tty: true
-    networks:
-        - localnet
     ports:
         - "5000:5000"
     env_file:
         - .env.dev
-
-networks:
-    localnet:
-        external: true

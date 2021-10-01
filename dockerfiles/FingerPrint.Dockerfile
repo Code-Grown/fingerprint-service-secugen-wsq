@@ -91,7 +91,7 @@ WORKDIR /main
 EXPOSE 5000
 
 # Modo dev usando flask run
-#CMD ["flask", "run", "-p", "5000", "-h", "0.0.0.0"]
+CMD ["flask", "run", "-p", "5000", "-h", "0.0.0.0"]
 
 # Aca usar en desarrollo, --reload sirve para detectar cambios y recargar el servidor
 #CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app", "--reload", "--workers=2", "--threads=4", "--log-file=-", "--worker-tmp-dir", "/dev/shm" ,"--worker-class=gthread"]
@@ -103,4 +103,4 @@ EXPOSE 5000
 #CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app", "--log-file=-", "--worker-tmp-dir", "/dev/shm", "--workers=8", "--threads=8", "--worker-class=gthread"]
 
 # Este de abajo usar en producción usando gunicorn y eventlet
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app", "--log-file=-", "--worker-tmp-dir", "/dev/shm", "--workers=8", "--threads=8", "--worker-class=eventlet"]
+#CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app", "--log-file=-", "--worker-tmp-dir", "/dev/shm", "--workers=8", "--threads=8", "--worker-class=eventlet"]

@@ -15,8 +15,8 @@
 #include <string.h>
 #include "sgfplib.h"
 #include <sys/stat.h>
-#include <chrono>
-#include <thread>
+//#include <chrono>
+//#include <thread>
 
 LPSGFPM  sgfplib = NULL;
 
@@ -220,7 +220,8 @@ int main(int argc, char **argv)
   // Init()
   strcpy(function,"Init(SG_DEV_AUTO)");
   printf("\nCall %s\n",function);
-  err = sgfplib->Init(SG_DEV_AUTO);
+  // err = sgfplib->Init(SG_DEV_AUTO);
+  err = sgfplib->Init(SG_DEV_FDU03);
   printf("%s returned: %ld\n",function,err);
 
   if (err != SGFDX_ERROR_NONE)
@@ -233,7 +234,8 @@ int main(int argc, char **argv)
   // OpenDevice()
   strcpy(function,"OpenDevice(0)");
   printf("\nCall %s\n",function);
-  err = sgfplib->OpenDevice(0);
+  err = sgfplib->OpenDevice(USB_AUTO_DETECT);
+  // err = sgfplib->OpenDevice(0);
   printf("%s returned: %ld\n",function,err);
 
   if (err == SGFDX_ERROR_NONE)
@@ -289,6 +291,7 @@ int main(int argc, char **argv)
     // printf("Which finger would you like to test with? (e.g. left thumb) >> ");
     // fgets(kbWhichFinger,100,stdin); // se comento esto
     //Remove CR/NL (<ENTER>)
+    
     fingerLength = strlen(kbWhichFinger);
     for (int i=0; i < strlen(kbWhichFinger); ++i)
     {
@@ -313,7 +316,7 @@ int main(int argc, char **argv)
     err = NULL;
 
     printf("Capture 1. Please place [%s]",finger);
-    std::this_thread::sleep_for(std::chrono::milliseconds(3000));
+    //std::this_thread::sleep_for(std::chrono::milliseconds(3000));
     imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
     strcpy(function,"GetImage()");
     printf("\nCall %s\n",function);
@@ -324,7 +327,7 @@ int main(int argc, char **argv)
       ///////////////////////////////////////////////
       // getImage() - 1st Capture
       printf("Capture 1. Please place [%s] ",finger);
-      std::this_thread::sleep_for(std::chrono::milliseconds(3000));
+      //std::this_thread::sleep_for(std::chrono::milliseconds(3000));
       // getc(stdin); // se comento 
       imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
       strcpy(function,"GetImage()");

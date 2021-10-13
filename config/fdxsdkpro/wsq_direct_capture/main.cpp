@@ -15,8 +15,8 @@
 #include <string.h>
 #include "sgfplib.h"
 #include <sys/stat.h>
-//#include <chrono>
-//#include <thread>
+#include <chrono>
+#include <thread>
 
 LPSGFPM  sgfplib = NULL;
 
@@ -316,7 +316,7 @@ int main(int argc, char **argv)
     err = NULL;
 
     printf("Capture 1. Please place [%s]",finger);
-    //std::this_thread::sleep_for(std::chrono::milliseconds(3000));
+    std::this_thread::sleep_for(std::chrono::milliseconds(1500));
     imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
     strcpy(function,"GetImage()");
     printf("\nCall %s\n",function);
@@ -327,7 +327,7 @@ int main(int argc, char **argv)
       ///////////////////////////////////////////////
       // getImage() - 1st Capture
       printf("Capture 1. Please place [%s] ",finger);
-      //std::this_thread::sleep_for(std::chrono::milliseconds(3000));
+      std::this_thread::sleep_for(std::chrono::milliseconds(1500));
       // getc(stdin); // se comento 
       imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
       strcpy(function,"GetImage()");

@@ -218,7 +218,7 @@ int main(int argc, char **argv)
 
   ///////////////////////////////////////////////
   // Init()
-  strcpy(function,"Init(SG_DEV_AUTO)");
+  strcpy(function,"Init(SG_DEV_FDU03)");
   printf("\nCall %s\n",function);
   // err = sgfplib->Init(SG_DEV_AUTO);
   err = sgfplib->Init(SG_DEV_FDU03);
@@ -232,7 +232,7 @@ int main(int argc, char **argv)
 
   ///////////////////////////////////////////////
   // OpenDevice()
-  strcpy(function,"OpenDevice(0)");
+  strcpy(function,"OpenDevice(USB_AUTO_DETECT)");
   printf("\nCall %s\n",function);
   err = sgfplib->OpenDevice(USB_AUTO_DETECT);
   // err = sgfplib->OpenDevice(0);

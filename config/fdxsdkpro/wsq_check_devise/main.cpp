@@ -58,9 +58,10 @@ int main(int argc, char **argv)
 
   ///////////////////////////////////////////////
   // Init()
-  strcpy(function,"Init(SG_DEV_AUTO)");
+  strcpy(function,"Init(SG_DEV_FDU03)");
   printf("\nCall %s\n",function);
-  err = sgfplib->Init(SG_DEV_AUTO);
+  // err = sgfplib->Init(SG_DEV_AUTO);
+  err = sgfplib->Init(SG_DEV_FDU03);
   printf("%s returned: %ld\n",function,err);
 
   if (err != SGFDX_ERROR_NONE)

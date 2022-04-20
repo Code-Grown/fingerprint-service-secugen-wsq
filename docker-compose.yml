@@ -8,9 +8,10 @@ services:
         - ./main:/main
         - ./config/fdxsdkpro:/fdxsdkpro
         - /dev/bus/usb:/dev/bus/usb
-    build:
-        context: .
-        dockerfile: dockerfiles/FingerPrint.Dockerfile
+    image: eramoscha/kioskos-fingerprint-service:latest
+    #build:
+        #context: .
+        #dockerfile: dockerfiles/FingerPrint.Dockerfile
     privileged: true
     tty: true
     restart: always

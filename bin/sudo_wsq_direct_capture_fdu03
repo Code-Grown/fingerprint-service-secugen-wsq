@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo wsq_direct_capture_fdu03

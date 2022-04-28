@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo wsq_check_devise_fdu03

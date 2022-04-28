@@ -234,8 +234,8 @@ int main(int argc, char **argv)
   // OpenDevice()
   strcpy(function,"OpenDevice(USB_AUTO_DETECT)");
   printf("\nCall %s\n",function);
-  err = sgfplib->OpenDevice(USB_AUTO_DETECT);
-  // err = sgfplib->OpenDevice(0);
+  // err = sgfplib->OpenDevice(USB_AUTO_DETECT);
+  err = sgfplib->OpenDevice(0);
   printf("%s returned: %ld\n",function,err);
 
   if (err == SGFDX_ERROR_NONE)
@@ -316,7 +316,7 @@ int main(int argc, char **argv)
     err = NULL;
 
     printf("Capture 1. Please place [%s]",finger);
-    std::this_thread::sleep_for(std::chrono::milliseconds(1500));
+    std::this_thread::sleep_for(std::chrono::milliseconds(3000));
     imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
     strcpy(function,"GetImage()");
     printf("\nCall %s\n",function);
@@ -327,7 +327,7 @@ int main(int argc, char **argv)
       ///////////////////////////////////////////////
       // getImage() - 1st Capture
       printf("Capture 1. Please place [%s] ",finger);
-      std::this_thread::sleep_for(std::chrono::milliseconds(1500));
+      std::this_thread::sleep_for(std::chrono::milliseconds(3000));
       // getc(stdin); // se comento 
       imageBuffer1 = (BYTE*) malloc(deviceInfo.ImageHeight*deviceInfo.ImageWidth);
       strcpy(function,"GetImage()");

@@ -422,3 +422,863 @@
 [29/09/2021 12:41:01] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
 [29/09/2021 12:41:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
 [29/09/2021 12:41:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:54:07] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:54:07] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:54:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:54:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:54:21] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:54:21] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:54:31] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:54:38] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:54:38] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:54:48] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:54:48] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:54:48] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:54:48] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:54:48] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:54:48] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:54:54] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:54:54] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:55:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:55:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:55:24] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[30/09/2021 22:55:32] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:55:32] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:55:43] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:55:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:55:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:55:58] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:55:58] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:55:58] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:55:58] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:04] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:56:04] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:15] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:15] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:15] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:15] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:20] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:56:20] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:31] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:31] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:31] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:31] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:37] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:56:37] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:49] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:49] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:49] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:49] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:56:53] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:56:53] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:56:56] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:56:56] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:56:56] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[30/09/2021 22:57:50] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:57:50] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:57:57] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:57:57] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:07] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:58:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:23] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:26] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:58:26] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:37] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:37] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:37] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:37] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:37] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:43] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:58:43] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:54] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 22:58:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 22:58:59] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 22:58:59] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 22:59:03] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 22:59:03] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 22:59:03] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[30/09/2021 23:30:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 23:30:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 23:30:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 23:30:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 23:30:33] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:30:33] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:30:44] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 23:30:49] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:30:49] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:31:00] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 23:31:00] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:00] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:00] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:00] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:00] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:05] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:31:05] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:31:16] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 23:31:16] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:16] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:16] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:16] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:16] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:31:21] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:31:21] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:31:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 23:31:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 23:31:25] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[30/09/2021 23:31:54] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 23:31:54] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 23:32:00] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:32:00] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:32:10] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 23:32:16] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:32:16] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:32:29] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[30/09/2021 23:32:29] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:32:29] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:32:29] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:32:29] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[30/09/2021 23:32:34] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[30/09/2021 23:32:34] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[30/09/2021 23:32:39] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[30/09/2021 23:32:39] - [WARNING] - Realizando llamada al sistema: killdevice 
+[30/09/2021 23:32:39] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 00:03:21] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 00:03:21] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 00:03:23] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 00:03:23] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 00:03:40] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:03:40] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:03:51] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 00:03:56] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:03:56] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:04:02] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 00:04:02] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 00:04:02] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 00:14:55] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 00:14:55] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 00:15:06] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:15:06] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:17] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:21] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:15:21] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:32] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:32] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:32] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:32] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:36] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:15:36] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:47] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:47] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 00:15:52] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 00:15:52] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 00:15:55] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 00:15:55] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 00:15:55] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 01:15:57] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:15:57] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:15:58] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:15:58] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:16:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:16:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:16:23] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:16:29] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:16:29] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:16:46] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:16:46] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:16:46] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 01:16:56] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:16:56] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:07] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:17:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:23] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:27] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:17:27] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:38] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:38] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:42] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:17:42] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:54] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:17:58] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:17:58] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:18:01] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:18:01] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:18:01] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 01:22:49] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:22:49] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:23:02] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:23:13] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:23:13] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:23:22] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:23:22] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:23:35] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:23:44] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:23:44] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:23:51] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:23:51] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:24:04] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:24:08] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:24:08] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:24:20] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:24:20] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:24:20] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:24:20] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:24:23] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:24:23] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:24:54] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:24:54] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:24:54] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 01:25:06] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:25:06] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:18] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:23] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:25:23] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:36] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:41] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:25:41] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:54] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:25:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:25:58] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:25:58] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:11] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:17] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:26:17] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:20] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:26:20] - [WARNING] - Realizando llamada al sistema: killdevice 
+[01/10/2021 01:26:20] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[01/10/2021 01:26:27] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:26:27] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:39] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:44] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:26:44] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:56] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:26:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:26:59] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[01/10/2021 01:26:59] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[01/10/2021 01:27:12] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[01/10/2021 01:27:12] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:27:12] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:27:12] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[01/10/2021 01:27:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[01/10/2021 01:27:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:50:19] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:50:19] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:50:33] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:50:33] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:50:48] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:50:48] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:52:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:52:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:52:16] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:52:16] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/10/2021 18:53:00] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/10/2021 18:53:00] - [WARNING] - Realizando llamada al sistema: killdevice 
+[06/10/2021 13:33:50] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[06/10/2021 13:33:50] - [WARNING] - Realizando llamada al sistema: killdevice 
+[06/10/2021 13:33:54] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[06/10/2021 13:33:54] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:25:37] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:25:38] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:25:49] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:25:49] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:26:02] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:26:10] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:26:10] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:26:19] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:26:19] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:26:32] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:26:38] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:26:38] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:30:12] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:30:12] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:30:26] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:30:26] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:30:39] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:34:16] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:34:16] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:34:59] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:34:59] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:35:10] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:35:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:35:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:35:22] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:22] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:35:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:35:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:35:38] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:35:38] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:35:41] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:35:41] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:35:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:35:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:35:58] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:36:08] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:36:08] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:48:12] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:48:12] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:48:24] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:48:24] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:48:34] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:48:44] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 14:48:44] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 14:48:52] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:48:52] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:49:02] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:49:04] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 14:49:04] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 14:49:14] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 14:49:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:49:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 14:49:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:27] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 15:29:27] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 15:29:36] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 15:29:36] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 15:29:39] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 15:29:41] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 15:29:41] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 15:29:44] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:29:44] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:03] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 15:30:03] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 15:30:11] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 15:30:11] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:13] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:15] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 15:30:15] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:17] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:17] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:17] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:17] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:19] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 15:30:19] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:21] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 15:30:21] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:21] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:21] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 15:30:28] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 15:30:28] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 16:13:45] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[12/10/2021 16:13:45] - [WARNING] - Realizando llamada al sistema: killdevice 
+[12/10/2021 16:13:53] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 16:13:53] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 16:13:55] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 16:14:00] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 16:14:00] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 16:14:02] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[12/10/2021 16:14:02] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:02] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:02] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:02] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:07] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:07] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:07] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:07] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[12/10/2021 16:14:07] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[12/10/2021 16:14:07] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[12/10/2021 16:14:09] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:13:26] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:13:26] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:13:33] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:13:33] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:13:38] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:26:48] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:26:48] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:26:54] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:26:54] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:26:56] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:26:56] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:27:10] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:27:10] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:27:15] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:28:17] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:28:17] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:28:20] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:28:20] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:28:34] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:28:34] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:28:38] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:00] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:29:00] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:29:22] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:29:22] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:26] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:29] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:29:29] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:33] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:33] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:29:33] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:29:33] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:29:35] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:29:35] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:42] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:29:42] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:29:42] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:29:42] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:34] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:30:34] - [WARNING] - Realizando llamada al sistema: killdevice 
+[13/10/2021 00:30:43] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:30:43] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:47] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:30:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:52] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:52] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:52] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:52] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:53] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:30:53] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:30:53] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:57] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:30:59] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:30:59] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:03] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:03] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:03] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:03] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:04] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:31:04] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:08] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:08] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:08] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:08] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:10] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[13/10/2021 00:31:10] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:14] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[13/10/2021 00:31:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:14] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[13/10/2021 00:31:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[13/10/2021 00:31:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 02:05:29] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[14/10/2021 02:05:29] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[14/10/2021 02:05:33] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[14/10/2021 02:05:38] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[14/10/2021 02:05:38] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[14/10/2021 02:05:42] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[14/10/2021 02:05:42] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[14/10/2021 02:05:42] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[14/10/2021 02:05:50] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 02:05:50] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 10:57:44] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 10:57:44] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 10:57:47] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 10:57:47] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:00:26] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:00:26] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:00:53] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:00:53] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:08:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:08:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:08:26] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:08:26] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:11:47] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:11:47] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:11:48] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:11:48] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:12:59] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:12:59] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:13:02] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:13:02] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:14:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:14:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:14:56] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:14:56] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:15:04] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:15:04] - [WARNING] - Realizando llamada al sistema: killdevice 
+[14/10/2021 11:17:01] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[14/10/2021 11:17:01] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:16:04] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:16:04] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:16:06] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:16:06] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:16:33] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:16:33] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:16:43] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:16:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:16:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:16:56] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:16:56] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:17:00] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:17:00] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:17:08] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:17:08] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:17:08] - [WARNING] - Llamada al sistema finalizada: killdevice 
+[19/10/2021 10:18:40] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:18:40] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:18:42] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:18:42] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:18:50] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:18:50] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:18:58] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:19:03] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:19:03] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:19:11] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:11] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:19:19] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:19:19] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:35:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:35:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:35:26] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:35:26] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 10:35:35] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:35:35] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:35:43] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:35:46] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:35:46] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:35:54] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:35:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:54] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:57] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:57] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:57] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:57] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[19/10/2021 10:35:57] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[19/10/2021 10:35:57] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[19/10/2021 10:36:04] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[19/10/2021 10:36:17] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 10:36:17] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:03:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:03:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:03:14] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:03:14] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:03:21] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:03:21] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:03:38] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:03:38] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:04:30] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:04:30] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:06:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:06:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 15:10:55] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 15:10:55] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:45:59] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:45:59] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:13] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:13] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:19] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:19] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:23] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:23] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:28] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:28] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:34] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:34] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:41] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:41] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:48] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:48] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:53] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:53] - [WARNING] - Realizando llamada al sistema: killdevice 
+[19/10/2021 16:46:57] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[19/10/2021 16:46:57] - [WARNING] - Realizando llamada al sistema: killdevice 
+[20/10/2021 12:24:16] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[20/10/2021 12:24:16] - [WARNING] - Realizando llamada al sistema: killdevice 
+[20/10/2021 12:24:19] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[20/10/2021 12:24:19] - [WARNING] - Realizando llamada al sistema: killdevice 
+[20/10/2021 12:50:43] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[20/10/2021 12:50:43] - [WARNING] - Realizando llamada al sistema: killdevice 
+[20/10/2021 12:50:45] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[20/10/2021 12:50:45] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:09:01] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:09:01] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:38:55] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:38:55] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:38:56] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:38:56] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:39:09] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[28/10/2021 12:39:09] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[28/10/2021 12:39:14] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[28/10/2021 12:39:18] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[28/10/2021 12:39:18] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[28/10/2021 12:39:23] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:39:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[28/10/2021 12:40:34] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:40:34] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:40:39] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:40:39] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:40:58] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:40:58] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:41:46] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:41:46] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:41:47] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:41:47] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:42:00] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:42:00] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:42:21] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:42:21] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:42:23] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:42:23] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:43:43] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:43:43] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:45:00] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:45:00] - [WARNING] - Realizando llamada al sistema: killdevice 
+[28/10/2021 12:45:02] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[28/10/2021 12:45:02] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 12:57:09] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 12:57:09] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 12:57:13] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 12:57:16] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 12:57:16] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 12:57:20] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 12:57:20] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 12:57:20] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 12:59:26] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 12:59:26] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 12:59:30] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:08:29] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 13:08:29] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 13:08:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 13:08:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 13:15:43] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 13:15:43] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 13:15:46] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 13:15:46] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 13:16:12] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:16:12] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:16:16] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:27] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:18:27] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:31] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:33] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:18:33] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:36] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:36] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:39] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:18:39] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:43] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:43] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:45] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:18:45] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:49] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:51] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:18:51] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:55] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:18:55] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 13:21:48] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 13:21:48] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 13:21:52] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 14:22:53] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:22:53] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:23:01] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:23:01] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:23:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:23:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:23:31] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 14:23:31] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 14:23:35] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 14:23:57] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:23:57] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:35:04] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:35:04] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:35:05] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:35:05] - [WARNING] - Realizando llamada al sistema: killdevice 
+[29/10/2021 14:35:15] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 14:35:15] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 14:35:19] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: cambiar_dedo 
+[29/10/2021 14:35:23] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[29/10/2021 14:35:23] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[29/10/2021 14:35:26] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[29/10/2021 14:35:39] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[29/10/2021 14:35:39] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:13:32] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:13:33] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:13:35] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:13:35] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:13:45] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[04/11/2021 16:13:45] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[04/11/2021 16:13:53] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[04/11/2021 16:14:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:14:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:14:24] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:14:24] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:14:36] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[04/11/2021 16:14:36] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[04/11/2021 16:14:45] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[04/11/2021 16:15:09] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:15:09] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:15:10] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:15:10] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:15:22] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:15:22] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:15:23] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:15:23] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:15:42] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[04/11/2021 16:15:42] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[04/11/2021 16:15:52] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[04/11/2021 16:18:03] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:18:03] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:18:05] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:18:05] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:19:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:19:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:19:42] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:19:42] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:42:39] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:42:39] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:43:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[04/11/2021 16:43:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[04/11/2021 16:43:19] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[04/11/2021 16:43:19] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[04/11/2021 16:43:27] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[05/11/2021 11:23:25] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 11:23:25] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 11:23:27] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 11:23:27] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 11:23:37] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[05/11/2021 11:23:37] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[05/11/2021 11:23:45] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[05/11/2021 12:45:47] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 12:45:47] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 12:47:59] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 12:47:59] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 12:49:08] - [WARNING] - Procesando mensaje: iniciar_transaccion 
+[05/11/2021 12:49:08] - [WARNING] - Realizando llamada al sistema: wsq_direct_capture_fdu03 
+[05/11/2021 12:49:31] - [WARNING] - Llamada al sistema finalizada: wsq_direct_capture_fdu03 
+[05/11/2021 12:50:11] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 12:50:11] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 15:58:02] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 15:58:02] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 15:58:02] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 15:58:02] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 16:00:31] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 16:00:31] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 16:00:33] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 16:00:33] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 16:01:08] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 16:01:08] - [WARNING] - Realizando llamada al sistema: killdevice 
+[05/11/2021 16:32:52] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[05/11/2021 16:32:52] - [WARNING] - Realizando llamada al sistema: killdevice 
+[09/11/2021 18:32:08] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[09/11/2021 18:32:08] - [WARNING] - Realizando llamada al sistema: killdevice 
+[09/11/2021 19:51:44] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[09/11/2021 19:51:44] - [WARNING] - Realizando llamada al sistema: killdevice 
+[09/11/2021 19:51:46] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[09/11/2021 19:51:46] - [WARNING] - Realizando llamada al sistema: killdevice 
+[09/11/2021 19:52:45] - [WARNING] - Procesando mensaje: finalizar_transaccion 
+[09/11/2021 19:52:45] - [WARNING] - Realizando llamada al sistema: killdevice 

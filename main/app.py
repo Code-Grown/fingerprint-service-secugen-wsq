@@ -30,8 +30,8 @@ def reverse(sock):
 
         ENCODING = 'utf-8'
         FINGERPATH = '/main'
-        SYSTEMCALLACTION = 'wsq_direct_capture_fdu03'
-        SYSTEMCHECKDEVISE = 'wsq_check_devise_fdu03'
+        SYSTEMCALLACTION = 'sudo_wsq_direct_capture_fdu03'
+        SYSTEMCHECKDEVISE = 'sudo_wsq_check_devise_fdu03'
         SYSTEMCLOSE = "killdevice"
 
         mensaje = json.loads( sock.receive() )

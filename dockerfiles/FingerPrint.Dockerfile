@@ -72,18 +72,38 @@ WORKDIR /fdxsdkpro/lib/linux3
 RUN make install
 
 # Accesos directos a los ejecutables que interactúan con el huellero {check, capture, close}
+COPY ./bin/killdevice /usr/local/bin/killdevice
+COPY ./bin/sudo_wsq_check_devise_fdu03 /fdxsdkpro/bin/linux3/sudo_wsq_check_devise_fdu03
+COPY ./bin/sudo_wsq_direct_capture_fdu03 /fdxsdkpro/bin/linux3/sudo_wsq_direct_capture_fdu03
+
 RUN ln -s /fdxsdkpro/bin/linux3/wsq_check_devise_fdu03 /usr/local/bin/wsq_check_devise_fdu03
 RUN ln -s /fdxsdkpro/bin/linux3/wsq_direct_capture_fdu03 /usr/local/bin/wsq_direct_capture_fdu03
-COPY ./bin/killdevice /usr/local/bin/killdevice
+RUN ln -s /fdxsdkpro/bin/linux3/sudo_wsq_check_devise_fdu03 /usr/local/bin/sudo_wsq_check_devise_fdu03
+RUN ln -s /fdxsdkpro/bin/linux3/sudo_wsq_direct_capture_fdu03 /usr/local/bin/sudo_wsq_direct_capture_fdu03
+
 RUN chmod 777 /usr/local/bin/killdevice
+RUN chmod 777 /usr/local/bin/wsq_check_devise_fdu03
+RUN chmod 777 /usr/local/bin/wsq_direct_capture_fdu03
+RUN chmod 777 /usr/local/bin/sudo_wsq_check_devise_fdu03
+RUN chmod 777 /usr/local/bin/sudo_wsq_direct_capture_fdu03
+
+RUN chmod -R 777 * /fdxsdkpro/bin/linux3/
 
 # Correccion de permisos a los archivos
 RUN find /main -type f -exec chmod 775 $i {} \;
 RUN find /main -type d -exec chmod 644 $i {} \;
 
+RUN chmod -R 777 /main/storage/logs/
+RUN chmod 777 /main/finger.raw
+RUN chmod 777 /main/finger.wsq
+
 # Triggers de los dispositivos
 #RUN /etc/init.d/udev restart  && udevadm trigger
 #RUN sbin/ldconfig /usr/local/lib
+
+RUN touch /etc/sudoers.d/secugen
+RUN echo "secugen    ALL=(ALL:ALL) NOPASSWD:ALL" >> /etc/sudoers.d/secugen
+RUN usermod -aG sudo secugen
 
 USER secugen
 WORKDIR /main

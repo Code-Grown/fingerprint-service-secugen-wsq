@@ -8,8 +8,8 @@ services:
         - ./main:/main
         - ./config/fdxsdkpro:/fdxsdkpro
         - /dev/bus/usb:/dev/bus/usb
-    image: eramoscha/kioskos-fingerprint-service-sudorun:latest
-    #image: eramoscha/kioskos-fingerprint-service:latest
+    #image: eramoscha/kioskos-fingerprint-service-sudorun:latest
+    image: eramoscha/kioskos-fingerprint-service:latest
     #build:
         #context: .
         #dockerfile: dockerfiles/FingerPrint.Dockerfile
